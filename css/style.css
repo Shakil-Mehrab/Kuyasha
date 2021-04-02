@@ -1,0 +1,78 @@
+body{
+   color: ;
+}
+.nav_li{
+    list-style-type: none;
+    padding: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.nav_li a{
+    text-decoration: none;
+    color: white;
+}
+.nav_li a:hover{
+    font-size: 20px;
+}
+a:hover{
+    color: red;
+}
+.jumbotron{
+    height: 150px;
+    overflow: hidden;
+}
+.jumbotron #details{
+    position: absolute;
+    color: white;
+    margin-left: 60px;
+    padding: 10px;
+}
+.jumbotron #details:hover{
+    color: red ;
+}
+.jumbotron img{
+    width: 100%;
+    height: 120px;
+}
+p:hover{
+color: red;
+}
+h5:hover{
+    font-size: 30px;
+    color: rgba(0, 66, 128, 0.822);
+}
+section .widgets{
+    margin-bottom: 20px;
+}
+.popular{
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.popular img{
+    width: 100%;
+    height: auto;
+    margin-top: 12px;
+}
+.popular ul li{
+    list-style: none;
+}
+.popular ul li a{
+    text-decoration: none;
+}
+.post{
+    background: white;
+    border: 1px solid #E3E3E3;
+    margin: 15PX 0PX;
+}
+footer{
+    background: black;
+    height: 50px;
+    line-height: 50px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+
+
